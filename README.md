@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aquamarie_ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aquamarie_ne" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aubrey joy tejada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey joy tejada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aptejada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey joy tejada" height="30" width="40" /></a>
 <a href="https://medium.com/@aptejada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aptejada" height="30" width="40" /></a>
 </p>
 
