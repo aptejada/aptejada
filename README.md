@@ -5,8 +5,6 @@
 
 - 🌱 I keep on learning **bioinformatics and concepts related to molecular sciences**
 
-- 📫 You can reach me at **aptejada@up.edu.ph**
-
 - ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen, waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set. I'm no expert yet. I am still learning through the open resources shared by the experts.**
 
 <h3 align="left">Connect with me:</h3>
