@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aubrey Tejada</h1>
-<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal the mysteries of life, and how we can encrypt/decrypt these codes. Sometimes wondering why I feel the spark of joy in doing bioinformatics despite its steep learning curves. I'm still figuring it out but I am 80% sure, it's fun. The 20% is reserved for all 🤯😮‍💨 annoyance I grumble in front of my computer screen, sometimes 👩‍💻. </h3>
+<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal the mysteries of life, and how we can encrypt/decrypt these codes. Sometimes wondering why I feel the spark of joy in doing bioinformatics/data science despite its steep learning curves. I am 80% sure, it's fun. The 20% is reserved for all 🤯😮‍💨 annoyance I grumble in front of my computer screen, sometimes 👩‍💻. </h3>
 
 - 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) and [CodeBuddy-01](https://github.com/aptejada/CodeBuddy-01)
 
