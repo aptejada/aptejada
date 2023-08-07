@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) and [CodeBuddy-01](https://github.com/aptejada/CodeBuddy-01)
 
-- 🌱 I keep on learning **data science, bioinformatics, and concepts related to molecular sciences**
+- 🌱 I keep on learning **data science, bioinformatics, and concepts related to molecular sciences. Even entrepreneurship and arts!**
 
 - ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen, waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set.**
 
