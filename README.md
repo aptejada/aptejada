@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubrey Tejada</h1>
 <h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal the mysteries of life, and how we can encrypt/decrypt these codes. Sometimes, I wonder why I feel the spark of joy in doing bioinformatics/data science despite its steep learning curve. Though, I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes 👩‍💻. </h3>
 
-- 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome),  [CodeBuddy-01](https://github.com/aptejada/CodeBuddy-01) , and [bacteriophages] <H1><FONT COLOR=red>NOTE: Scripts are currently under modificatio</H1>
+- 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome),  [CodeBuddy-01](https://github.com/aptejada/CodeBuddy-01) , and [bacteriophages] <code><color style=red>NOTE: Scripts are currently under modification</code>
 
 - 🌱 I keep on learning **data science, bioinformatics, and concepts related to molecular sciences. Even entrepreneurship and arts!**
 
