@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubrey </h1>
 <h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal and reveal the mysteries of life. Sometimes, I wonder why I feel the spark of joy in doing bioinformatics/data science despite its steep learning curve. Though, I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes (or most of the time) 👩‍💻. </h3>
 
-- 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) and [bacteriophages] <code><color style=red>NOTE: Script is currently under modification. It will be available soon </code>
+- 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) <code><color style=red>NOTE: Script is currently under modification. It will be available soon </code>
 
 - 🌱 I keep on learning **data science, bioinformatics, and concepts related to molecular sciences.**
 
