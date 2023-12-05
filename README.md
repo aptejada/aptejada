@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) <code><color style=red>NOTE: Script is currently under modification. It will be available soon </code>
 
+- 🔭 I collaborate with my labmates to maintain our [project on bacteriophage metagenome](https://github.com/vipp2)
+
 - 🌱 I keep on learning **data science, bioinformatics, and concepts related to molecular sciences.**
 
 - ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen, waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set.**
