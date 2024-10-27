@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aubrey </h1>
-<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal and reveal the mysteries of life. I enjoy bioinformatics. Though I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes (or most of the time) while doing bioinfomatics analyses 👩‍💻. </h3>
+<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal and reveal the mysteries of life. I enjoy bioinformatics. Though I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes (or most of the time) while doing bioinformatics analyses 👩‍💻. </h3>
 
 - 🔭 I’m currently working on the [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) <code><color style=red>NOTE: Script is currently under modification. It will be available soon </code>
 
