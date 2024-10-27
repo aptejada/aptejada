@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aubrey </h1>
-<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal and reveal the mysteries of life. Sometimes, I wonder why I feel the spark of joy in doing bioinformatics/data science despite its steep learning curve. Though, I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes (or most of the time) 👩‍💻. </h3>
+<h3 align="center">Fascinated by the host-microbe-microbe interactions. Enthused by how codes conceal and reveal the mysteries of life. I enjoy bioinformatics. Though I'll admit, 🤯😮‍💨 I grumble in front of my computer screen, sometimes (or most of the time) while doing bioinfomatics analyses 👩‍💻. </h3>
 
 - 🔭 I’m currently working on the [Giant Clam Microbiome Project](https://github.com/aptejada/GCMicrobiome) <code><color style=red>NOTE: Script is currently under modification. It will be available soon </code>
 
 - 🔭 I am also contributing to the [bacteriophage whole genome](https://github.com/vipp2) research studies of the Virology and Vaccine Institute of the Philippines 
 
-- 🌱 I keep on learning **data science - bioinformatics, and concepts related to microbiology and molecular sciences.**
+- 🌱 I keep on learning **data science - bioinformatics and concepts related to microbiology and molecular sciences.**
 
-- ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen, waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set. Life update as of August 2024: I am an ULAP.org scholar (Training for Azure and Github Fundamentals)**
+- ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen while waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set. Life update as of August 2024: I am an ULAP.org scholar (Training for Azure and Github Fundamentals)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
