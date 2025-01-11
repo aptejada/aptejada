@@ -7,7 +7,8 @@
 
 - 🌱 I keep on learning **data science - bioinformatics and concepts related to microbiology and molecular sciences.**
 
-- ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen while waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set. Life update as of August 2024: I am an ULAP.org scholar (Training for Azure and Github Fundamentals)**
+- ⚡ Fun fact **My favorite part of doing scientific research is when I hyperfocus on my computer screen while waiting for the scripts/codes to issue an error message or not. That's how I learned most of my bioinformatics and data analytics skill set.
+- I am a scholar. I received training support from ULAP.org and Eskwelabs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
